@@ -1,0 +1,15 @@
+[{
+	"Name": "parinfer",
+	"Description": "Parinfer plugin for micro",
+	"Tags": ["lisp"],
+	"Website": "https://github.com/CosmicToast/parinfer-micro.git",
+	"Versions": [
+		{
+			"Version": "0.1.0",
+			"Url": "https://github.com/CosmicToast/parinfer-micro/archive/v0.1.0.zip",
+			"Require": {
+				"micro": ">2.0.1"
+			}
+		}
+	]
+}]
