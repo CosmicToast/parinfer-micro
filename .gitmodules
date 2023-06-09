@@ -1,0 +1,3 @@
+[submodule "parinfer-lua"]
+	path = parinfer-lua
+	url = https://github.com/oakmac/parinfer-lua
